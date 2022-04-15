@@ -1,0 +1,61 @@
+# en tr
+Language: en
+
+ReloadPerm: 'hauthlobby.admin'
+
+DisableHunger:
+  - 'world'
+
+DisableBlockBreak:
+  - 'world'
+
+BypassBlockBreakPerm: 'hauthlobby.admin'
+BypassChatTalk: 'hauthlobby.admin'
+
+DisableBlockPlace:
+  - 'world'
+
+BypassBlockPlacePerm: 'hauthlobby.admin'
+
+DisableDamage:
+  - 'world'
+
+BypassDamagePerm: 'hauthlobby.admin'
+
+FireWorkOnJoin: true
+
+# 1 Green 2 Blue 3 Red 4 Yellow 5 Black 6 Orange
+FireWorkColor: 2
+
+FireWorkAmmount: 2
+
+MessageOnJoin: true
+
+JoinMessage:
+  - '&8&m----------&r &8[ &c&lYour &f&lServer &8] &8&m----------&r'
+  - ''
+  - '     &7Welcome to server &e{PLAYER}'
+  - ''
+  - '     &7Register &c/register <pass> <again>'
+  - ''
+  - '     &7Login &a/login <pass>'
+  - ''
+  - '&8&m----------&r &8[ &c&lYour &f&lServer &8] &8&m----------&r'
+
+VisibleOnJoin: true
+
+DisableWeather: true
+
+AlwaysDay: true
+
+CloseJoinMessage: true
+
+CloseQuitMessage: true
+
+CloseChat: true
+
+ClearChatOnJoin: true
+
+DisableDropItem: true
+
+TeleportSpawnOnJoin: true

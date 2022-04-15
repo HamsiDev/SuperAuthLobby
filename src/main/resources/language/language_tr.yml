@@ -1,0 +1,11 @@
+Reload: "&6&lSuperAuthLobby &8> &7Başarıyla yenilendi."
+PermissionError: "&6&lSuperAuthLobby &8> &cKonuşmak için yeterli yetkin yok."
+SuccesMessage: "&6&lSuperAuthLobby &8> &7Tamamlandı."
+HelpMessage:
+  - '&8&m----------&r &8[ &c&lSuperAuthLobby &f&lYARDIM &8] &8&m----------&r'
+  - ''
+  - '       &8&e/sal-reload &7Değişiklikleri Kayıt Eder.'
+  - '       &8&e/sal-setspawn &7Başlangıç Noktası Belirler.'
+  - '       &8&e/sal-spawn &7Başlangıç noktasına gider.'
+  - ''
+  - '&8&m----------&r &8[ &c&lSuperAuthLobby &f&lYARDIM &8] &8&m----------&r'

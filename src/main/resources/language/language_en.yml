@@ -1,0 +1,11 @@
+Reload: "&6&lSuperAuthLobby &8> &7Reload success."
+PermissionError: "&6&lSuperAuthLobby &8> &cYou dont have permission to talk."
+SuccesMessage: "&6&lSuperAuthLobby &8> &7Complated."
+HelpMessage:
+  - '&8&m----------&r &8[ &c&lSuperAuthLobby &f&lHELP &8] &8&m----------&r'
+  - ''
+  - '       &8&e/sal-reload &7Reload Plugin.'
+  - '       &8&e/sal-setspawn &7Set Spawn.'
+  - '       &8&e/sal-spawn &7Go to spawn.'
+  - ''
+  - '&8&m----------&r &8[ &c&lSuperAuthLobby &f&lHELP &8] &8&m----------&r'

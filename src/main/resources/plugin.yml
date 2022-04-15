@@ -1,0 +1,16 @@
+name: SuperAuthLobby
+version: '${project.version}'
+main: me.hamsi.superauthlobby.SuperAuthLobby
+authors: [ HamsiDev ]
+description: Auth Lobby Plugin For Good Servers
+softdepend: [PlaceholderAPI]
+website: hamsi.dev
+commands:
+  sal-spawn:
+    description: spawn
+  sal-setspawn:
+    description: setspawn
+  sal:
+    description: main
+  sal-reload:
+    description: reload
